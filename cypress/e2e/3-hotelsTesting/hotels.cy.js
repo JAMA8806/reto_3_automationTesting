@@ -3,7 +3,7 @@ describe("Testing", ()=>{
 
     beforeEach(()=>{
         
-        cy.visit("http://127.0.0.1:52210/hotels.html")
+        cy.visit("https://jama8806.github.io/hotels/")
     })
     
     
